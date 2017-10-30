@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/header.png</file>
+        <file>images/status/normal.png</file>
+        <file>images/status/inactive.png</file>
+        <file>images/status/alert.png</file>
+    </qresource>
+</RCC>
